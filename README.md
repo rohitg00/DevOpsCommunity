@@ -32,3 +32,4 @@ Name | Resource Link | Information
 [DevOps Books] | https://github.com/rohitg00/DevOps_Books | Respository created to host every free DevOps books available
 [Resume Tips] | https://twitter.com/ghumare64/status/1529346650468012032?s=20&t=KA45jQ2CBsyZK3wFW9zi7g | This tweet contains - Resume tips and my own latex  resume template
 [DevOps Youtube Channels] | https://twitter.com/ghumare64/status/1559771038895853568?s=20&t=KA45jQ2CBsyZK3wFW9zi7g | This tweet contains - 10 Youtube video channels to learn DevOps free of cost.
+[Tricks to earn through DevOps] | https://twitter.com/ghumare64/status/1555793156847063040?s=20&t=KA45jQ2CBsyZK3wFW9zi7g | This tweet contains - Tips and tricks to earn more than 50$/hr+ with DevOps and powerful content.
