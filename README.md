@@ -16,7 +16,7 @@ Enjoy!
 
 If you like this repo, be sure to ⭐ it.
 
-Please read [`contributing guidelines`](./main/CONTRIBUTING.md) before submitting new books.
+Please read [`contributing guidelines`](https://github.com/rohitg00/DevOpsCommunity/blob/main/contributing.md) before submitting new books.
 
 --- 
 
