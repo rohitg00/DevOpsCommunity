@@ -35,3 +35,4 @@ Name | Resource Link | Information
 [System Design Resources] | https://twitter.com/ghumare64/status/1530525871366230017?s=20&t=KA45jQ2CBsyZK3wFW9zi7g | This tweet contains - Resources to learn System Design. 🤖 System Design is the essential part of SDE/SRE Interviews.
 [Tricks to earn through DevOps] | https://twitter.com/ghumare64/status/1555793156847063040?s=20&t=KA45jQ2CBsyZK3wFW9zi7g | This tweet contains - Tips and tricks to earn more than 50$/hr+ with DevOps and powerful content.
 [Part-time Jobs] | https://twitter.com/ghumare64/status/1530242128139259905?s=20&t=KA45jQ2CBsyZK3wFW9zi7g | Learn about part-time jobs in DevOps
+[Service Mesh] | https://twitter.com/ghumare64/status/1547812558295670784?s=20&t=KA45jQ2CBsyZK3wFW9zi7g | Different resources to learn service mesh free of cost
