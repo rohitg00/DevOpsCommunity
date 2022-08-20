@@ -24,6 +24,13 @@ Please read [`contributing guidelines`](https://github.com/rohitg00/DevOpsCommun
 Initially created by [Rohit Ghumare](https://github.com/rohitg00/) on [Twitter](https://twitter.com/ghumare64).
 
 ---
+# Active Discounts - apply asap!
+
+[Apply for free $300 AWS POC credit](https://bit.ly/3ssytMj)
+[Five free courses on pluralsight this month (AWS, Cloud Computing Basics & Azure)](https://bit.ly/3Ics9hm)
+[80% discount on Datacamp (2 Days only) - Normally, the cost is $300. Now it’s only $59](https://lnkd.in/gkBw2xfs)
+[Udacity AWS AI & ML Scholarship Program](https://bit.ly/393PlBy)
+[Free ACloudGuru Courses (AWS, Azure, Networking and more)](https://bit.ly/3rOh5Rh)
 
 # DevOps Resources
 Name | Resource Link | Information
@@ -39,3 +46,9 @@ Name | Resource Link | Information
 [Tricks to earn through DevOps] | https://twitter.com/ghumare64/status/1555793156847063040?s=20&t=KA45jQ2CBsyZK3wFW9zi7g | This tweet contains - Tips and tricks to earn more than 50$/hr+ with DevOps and powerful content.
 [Part-time Jobs] | https://twitter.com/ghumare64/status/1530242128139259905?s=20&t=KA45jQ2CBsyZK3wFW9zi7g | Learn about part-time jobs in DevOps
 [Service Mesh] | https://twitter.com/ghumare64/status/1547812558295670784?s=20&t=KA45jQ2CBsyZK3wFW9zi7g | Different resources to learn service mesh free of cost
+[Free Introduction to GitOps] | https://bit.ly/3xKPZyi |  Linux Foundation course
+📚 Free e-Books | https://bit.ly/3LfMOma | The Container Security Book by Liz Rice
+🧑‍💻 Github Repos - 1 | https://bit.ly/3ypmikg | Automated Vagrant Kubernetes Cluster Setup
+🧑‍💻 Github Repos - 2 | https://bit.ly/3EJiI84 | Kubetools - A Curated List of Kubernetes Tools
+🧑‍💻 Github Repos - 3 | https://bit.ly/3Kejxa5 | System Design Primer
+
