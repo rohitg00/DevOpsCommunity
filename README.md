@@ -40,6 +40,8 @@ Name | Resource Link | Information
 [Resume Tips] | https://twitter.com/ghumare64/status/1529346650468012032?s=20&t=KA45jQ2CBsyZK3wFW9zi7g | This tweet contains - Resume tips and my own latex  resume template
 [DevOps Youtube Channels] | https://twitter.com/ghumare64/status/1559771038895853568?s=20&t=KA45jQ2CBsyZK3wFW9zi7g | This tweet contains - Youtube video channels to learn DevOps free of cost.
 [System Design Resources] | https://twitter.com/ghumare64/status/1530525871366230017?s=20&t=KA45jQ2CBsyZK3wFW9zi7g | This tweet contains - Resources to learn System Design. 🤖 System Design is the essential part of SDE/SRE Interviews.
+[DevOps Projects - 1] | https://twitter.com/ghumare64/status/1523372831513673729?s=20&t=luieHHpWhSqkW3_Pg3VWnQ | 5 DevOps Projects that will get you a job
+[DevOps Projects - 3] | https://twitter.com/ghumare64/status/1546127603282710530?s=20&t=luieHHpWhSqkW3_Pg3VWnQ | "Anna Afamefuna, Thanks for curation"
 [DevOps Resources - 1] | https://twitter.com/ghumare64/status/1526398860389519361?s=20&t=luieHHpWhSqkW3_Pg3VWnQ | This is part 1 of some DevOps resources
 [DevOps Resources - 2] | https://twitter.com/ghumare64/status/1528377875044663296?s=20&t=luieHHpWhSqkW3_Pg3VWnQ | This is part 2 of some DevOps resources
 [DevOps Resources - 3] | https://twitter.com/ghumare64/status/1531885835150233600?s=20&t=luieHHpWhSqkW3_Pg3VWnQ | This is part 3 of some DevOps resources
