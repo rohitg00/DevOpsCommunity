@@ -51,6 +51,23 @@ Name | Resource Link | Information
 [Service Mesh] | https://twitter.com/ghumare64/status/1547812558295670784?s=20&t=KA45jQ2CBsyZK3wFW9zi7g | Different resources to learn service mesh free of cost
 [Getting Started With eBPF] | https://ebpf.io/what-is-ebpf/ | eBPF (which is no longer an acronym for anything) is a revolutionary technology with origins in the Linux kernel that can run sandboxed programs in a privileged context such as the operating system kernel.
 [Free Introduction to GitOps] | https://bit.ly/3xKPZyi |  Linux Foundation course
+📄 Github Gists | https://t.co/gpWbgCKdrY
+
+https://t.co/jdQJtSYUjL
+
+https://t.co/OyObbwSbwf
+
+https://t.co/dDxC2TU0JW
+
+https://t.co/AvuBAnXzqK
+
+https://t.co/AvuBAnXzqK
+
+https://t.co/ThxJIAyM4U
+
+https://t.co/wyZ4Cg8lif
+
+https://t.co/2u83ClKLR8 | Application Security Interview Preparation questions
 📚 Free e-Books | https://bit.ly/3LfMOma | The Container Security Book by Liz Rice
 🧑‍💻 Github Repos - 1 | https://bit.ly/3ypmikg | Automated Vagrant Kubernetes Cluster Setup
 🧑‍💻 Github Repos - 2 | https://bit.ly/3EJiI84 | Kubetools - A Curated List of Kubernetes Tools
