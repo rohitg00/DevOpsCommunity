@@ -39,6 +39,7 @@ Name | Resource Link | Information
 [DevOps Books] | https://github.com/rohitg00/DevOps_Books | Respository created to host every free DevOps books available
 [Resume Tips] | https://twitter.com/ghumare64/status/1529346650468012032?s=20&t=KA45jQ2CBsyZK3wFW9zi7g | This tweet contains - Resume tips and my own latex  resume template
 [DevOps Youtube Channels] | https://twitter.com/ghumare64/status/1559771038895853568?s=20&t=KA45jQ2CBsyZK3wFW9zi7g | This tweet contains - Youtube video channels to learn DevOps free of cost.
+[DevOps Tools] | https://twitter.com/ghumare64/status/1560892185842941953?s=20&t=mTInaYg86KZbVNyC865ntQ | I personally use this DevOps tools
 [System Design Resources] | https://twitter.com/ghumare64/status/1530525871366230017?s=20&t=KA45jQ2CBsyZK3wFW9zi7g | This tweet contains - Resources to learn System Design. 🤖 System Design is the essential part of SDE/SRE Interviews.
 [DevOps Projects - 1] | https://twitter.com/ghumare64/status/1523372831513673729?s=20&t=luieHHpWhSqkW3_Pg3VWnQ | 5 DevOps Projects that will get you a job
 [DevOps Projects - 3] | https://twitter.com/ghumare64/status/1546127603282710530?s=20&t=luieHHpWhSqkW3_Pg3VWnQ | "Anna Afamefuna, Thanks for curation"
