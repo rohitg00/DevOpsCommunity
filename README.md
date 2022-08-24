@@ -55,5 +55,5 @@ Name | Resource Link | Information
 📄 Github Gists | [1](https://t.co/gpWbgCKdrY) [2](https://t.co/jdQJtSYUjL) [3](https://t.co/OyObbwSbwf) [4](https://t.co/dDxC2TU0JW) [5](https://t.co/AvuBAnXzqK) [6](https://t.co/AvuBAnXzqK) [7](https://t.co/ThxJIAyM4U) [8](https://t.co/wyZ4Cg8lif) [9](https://t.co/2u83ClKLR8) | Application Security Interview Preparation questions
 📚 Free e-Books | https://bit.ly/3LfMOma | The Container Security Book by Liz Rice
 🧑‍💻 Github Repos - 1 | https://bit.ly/3ypmikg | Automated Vagrant Kubernetes Cluster Setup
-🧑‍💻 Github Repos - 2 | https://bit.ly/3EJiI84 | Kubetools - A Curated List of Kubernetes Tools
+🧑‍💻 Github Repos - 2 | https://bit.ly/3dGLCfw | Kubetools - A Curated List of Kubernetes Tools
 🧑‍💻 Github Repos - 3 | https://bit.ly/3Kejxa5 | System Design Primer
