@@ -28,7 +28,6 @@ Initially created by [Rohit Ghumare](https://github.com/rohitg00/) on [Twitter](
 
 * [Apply for free $300 AWS POC credit](https://bit.ly/3ssytMj)
 * [Five free courses on pluralsight this month (AWS, Cloud Computing Basics & Azure)](https://bit.ly/3Ics9hm)
-* [80% discount on Datacamp (2 Days only) - Normally, the cost is $300. Now it’s only $59](https://lnkd.in/gkBw2xfs)
 * [Udacity AWS AI & ML Scholarship Program](https://bit.ly/393PlBy)
 * [Free ACloudGuru Courses (AWS, Azure, Networking and more)](https://bit.ly/3rOh5Rh)
 
@@ -39,6 +38,7 @@ Name | Resource Link | Information
 [DevOps Books] | https://github.com/rohitg00/DevOps_Books | Respository created to host every free DevOps books available
 [Resume Tips] | https://twitter.com/ghumare64/status/1529346650468012032?s=20&t=KA45jQ2CBsyZK3wFW9zi7g | This tweet contains - Resume tips and my own latex  resume template
 [DevOps Youtube Channels] | https://twitter.com/ghumare64/status/1559771038895853568?s=20&t=KA45jQ2CBsyZK3wFW9zi7g | This tweet contains - Youtube video channels to learn DevOps free of cost.
+[DevOps Tools] | https://twitter.com/ghumare64/status/1560892185842941953?s=20&t=mTInaYg86KZbVNyC865ntQ | I personally use this DevOps tools
 [System Design Resources] | https://twitter.com/ghumare64/status/1530525871366230017?s=20&t=KA45jQ2CBsyZK3wFW9zi7g | This tweet contains - Resources to learn System Design. 🤖 System Design is the essential part of SDE/SRE Interviews.
 [DevOps Projects - 1] | https://twitter.com/ghumare64/status/1523372831513673729?s=20&t=luieHHpWhSqkW3_Pg3VWnQ | 5 DevOps Projects that will get you a job
 [DevOps Projects - 3] | https://twitter.com/ghumare64/status/1546127603282710530?s=20&t=luieHHpWhSqkW3_Pg3VWnQ | "Anna Afamefuna, Thanks for curation"
@@ -54,6 +54,6 @@ Name | Resource Link | Information
 📄 Github Gists | [1](https://t.co/gpWbgCKdrY) [2](https://t.co/jdQJtSYUjL) [3](https://t.co/OyObbwSbwf) [4](https://t.co/dDxC2TU0JW) [5](https://t.co/AvuBAnXzqK) [6](https://t.co/AvuBAnXzqK) [7](https://t.co/ThxJIAyM4U) [8](https://t.co/wyZ4Cg8lif) [9](https://t.co/2u83ClKLR8) | Application Security Interview Preparation questions
 📚 Free e-Books | https://bit.ly/3LfMOma | The Container Security Book by Liz Rice
 🧑‍💻 Github Repos - 1 | https://bit.ly/3ypmikg | Automated Vagrant Kubernetes Cluster Setup
-🧑‍💻 Github Repos - 2 | https://bit.ly/3EJiI84 | Kubetools - A Curated List of Kubernetes Tools
+🧑‍💻 Github Repos - 2 | https://bit.ly/3dGLCfw | Kubetools - A Curated List of Kubernetes Tools
 🧑‍💻 Github Repos - 3 | https://bit.ly/3Kejxa5 | System Design Primer
 ☸️ Kubernetes course by CIVO | https://www.civo.com/academy | Kubernetes - An orchestration tool used to manage your containers and application
