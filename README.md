@@ -55,6 +55,8 @@ Name | Resource Link | Information
 [DevOps Excersises] | https://github.com/bregman-arie/devops-exercises | Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenStack, SQL, NoSQL, Azure, GCP, DNS, Elastic, Network, Virtualization. DevOps Interview Questions
 [90DaysOfDevOps] | https://github.com/MichaelCade/90DaysOfDevOps | This repository is my documenting repository for learning the world of DevOps. I started this journey on the 1st January 2022 and I plan to run to March 31st for a complete 90-day romp on spending an hour a day including weekends to get a foundational knowledge across a lot of different areas that make up DevOps.
 {Learn DevOps] | https://github.com/dwyl/learn-devops | 🚧 Learn the craft of "DevOps" (Developer Operations) to Deploy your App and Monitor it so it stays "Up"!
+{Awesome Learning] | https://github.com/Lets-DevOps/awesome-learning | A curated list for DevOps learning resources. Join the slack channel to discuss more.
+DevOps Academy | https://github.com/devopsacademyau/academy | DevOps content, classes and exercises
 📄 Github Gists | [1](https://t.co/gpWbgCKdrY) [2](https://t.co/jdQJtSYUjL) [3](https://t.co/OyObbwSbwf) [4](https://t.co/dDxC2TU0JW) [5](https://t.co/AvuBAnXzqK) [6](https://t.co/AvuBAnXzqK) [7](https://t.co/ThxJIAyM4U) [8](https://t.co/wyZ4Cg8lif) [9](https://t.co/2u83ClKLR8) | Application Security Interview Preparation questions
 📚 Free e-Books | https://bit.ly/3LfMOma | The Container Security Book by Liz Rice
 🧑‍💻 Github Repos - 1 | https://bit.ly/3ypmikg | Automated Vagrant Kubernetes Cluster Setup
