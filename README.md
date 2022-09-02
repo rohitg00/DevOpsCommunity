@@ -1,11 +1,11 @@
 # DevOpsCommunity
-DevOps/SRE community is for those folks who are trying to learn or explore DevOps with the help of experienced professionals. Opportunities are open to share. 
+DevOps/SRE community is for people who are trying to learn or explore DevOps with the help of experienced professionals. Opportunities are open to share. 
 
 Check out our [notion document](https://bit.ly/devopscommunity) and [DevOps Community](https://twitter.com/i/communities/1523681883384549376) on twitter for more.
 
-* This repository is complete Open-Source.
-* Goal is to create DevOps awareness and share the free resource.
-* Anyone wants to contribute, Feel free to submit Pull requests.
+* This repository is completely Open-Source.
+* The goal is to create DevOps awareness and share the free resource.
+* Anyone can contribute. Please feel free to submit Pull requests.
 
 Resources are added frequently! ⚡
 
