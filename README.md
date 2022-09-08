@@ -65,4 +65,4 @@ Name | Resource Link | Information
 🧑‍💻 Github Repos - 1 | https://bit.ly/3ypmikg | Automated Vagrant Kubernetes Cluster Setup
 🧑‍💻 Github Repos - 2 | https://bit.ly/3dGLCfw | Kubetools - A Curated List of Kubernetes Tools
 🧑‍💻 Github Repos - 3 | https://bit.ly/3Kejxa5 | System Design Primer
-☸️ Kubernetes course by CIVO | https://www.civo.com/academy | Kubernetes - An orchestration tool used to manage your containers and application
+☸️ Kubernetes course by CIVO and Techworld With Nana | https://www.civo.com/academy and https://youtu.be/X48VuDVv0do | Kubernetes - An orchestration tool used to manage your containers and application
