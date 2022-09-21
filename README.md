@@ -1,4 +1,5 @@
 # DevOpsCommunity
+<img src="assets/cover.png" />
 DevOps/SRE community is for those folks who are trying to learn or explore DevOps with the help of experienced professionals. Opportunities are open to share. 
 
 Check out our [notion document](https://bit.ly/devopscommunity) and [DevOps Community](https://twitter.com/i/communities/1523681883384549376) on twitter for more.
