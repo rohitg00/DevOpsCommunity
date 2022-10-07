@@ -104,3 +104,4 @@ DevOps Gitbook | https://tkssharma-devops.gitbook.io/devops-training/ | Some cur
 🧑‍💻 Github Repos - 2 | https://bit.ly/3dGLCfw | Kubetools - A Curated List of Kubernetes Tools
 🧑‍💻 Github Repos - 3 | https://bit.ly/3Kejxa5 | System Design Primer
 ☸️ Kubernetes course by CIVO | https://www.civo.com/academy | Kubernetes - An orchestration tool used to manage your containers and application
+ 💻Open Source Society University| https://github.com/ossu/computer-science | The OSSU curriculum is a complete education in computer science using online materials.
