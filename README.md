@@ -104,6 +104,6 @@ DevOps Gitbook | https://tkssharma-devops.gitbook.io/devops-training/ | Some cur
 🧑‍💻 Github Repos - 2 | https://bit.ly/3dGLCfw | Kubetools - A Curated List of Kubernetes Tools
 🧑‍💻 Github Repos - 3 | https://bit.ly/3Kejxa5 | System Design Primer
 ☸️ Kubernetes course by CIVO | https://www.civo.com/academy | Kubernetes - An orchestration tool used to manage your containers and application
-Sample Docker Templates | https://github.com/devtron-labs/devtron/tree/main/sample-docker-templates  | Devtron - An opensource Software Delivery Workflow for Kubernetes
+Sample Docker Templates | https://github.com/devtron-labs/devtron/tree/main/sample-docker-templates  | Devtron Sample Docker Templates - If you're exploring the docker images and stuck with the creation of dockerfiles, This resource get you covered.
 DevOps Projects | https://github.com/Abhinav-26/DevOps-Projects | Curated List of DevOps Projects
 
