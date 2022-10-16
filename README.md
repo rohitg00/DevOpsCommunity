@@ -33,41 +33,6 @@ Initially created by [Rohit Ghumare](https://github.com/rohitg00/) on [Twitter](
 * [Udacity AWS AI & ML Scholarship Program](https://bit.ly/393PlBy)
 * [Free ACloudGuru Courses (AWS, Azure, Networking and more)](https://bit.ly/3rOh5Rh)
 * [Free Week by KodeKloud (All resources)](https://kodekloud.webflow.io/free-week)
-# DevOpsCommunity
-<img src="assets/cover.png" />
-DevOps/SRE community is for those folks who are trying to learn or explore DevOps with the help of experienced professionals. Opportunities are open to share. 
-
-Check out our [notion document](https://bit.ly/devopscommunity) and [DevOps Community](https://twitter.com/i/communities/1523681883384549376) on twitter for more.
-
-* This repository is complete Open-Source.
-* Goal is to create DevOps awareness and share the free resource.
-* Anyone wants to contribute, Feel free to submit Pull requests.
-
-Resources are added frequently! ⚡
-
-Enjoy!
-
-# Open - Source Contribution
-
-* If you want to contribute, This repository is in build. Feel free to do.
-* Help needed for Alignment of Resources, and Readme.md creation with proper contributing guidelines.
-
-If you like this repo, be sure to ⭐ it.
-
-Please read [`contributing guidelines`](https://github.com/rohitg00/DevOpsCommunity/blob/main/contributing.md) before submitting new Resources.
-
---- 
-
-Initially created by [Rohit Ghumare](https://github.com/rohitg00/) on [Twitter](https://twitter.com/ghumare64).
-
----
-# Active Discounts - apply asap!
-
-* [Apply for free $300 AWS POC credit](https://bit.ly/3ssytMj)
-* [Five free courses on pluralsight this month (AWS, Cloud Computing Basics & Azure)](https://bit.ly/3Ics9hm)
-* [Udacity AWS AI & ML Scholarship Program](https://bit.ly/393PlBy)
-* [Free ACloudGuru Courses (AWS, Azure, Networking and more)](https://bit.ly/3rOh5Rh)
-* [Free Week by KodeKloud (All resources)](https://kodekloud.webflow.io/free-week)
 
 # DevOps Resources
 Name | Resource Link | Information
