@@ -40,7 +40,7 @@ Name | Resource Link | Information
 DevOps Path | https://twitter.com/ghumare64/status/1537460982582128641?s=20&t=KA45jQ2CBsyZK3wFW9zi7g | Recommended by me, If focusing on the Job Interview
 DevOps Roadmap by roadmap.sh | https://roadmap.sh/devops | A community driven step by step guide for DevOps, SRE or any other Operations Role in 2022
 Remote Job Path | https://twitter.com/ghumare64/status/1567096152079859712?s=20&t=bTOHCdrD6epup8J2p7Fucw | It is my experience while applying remote jobs
-DevOps Books | https://github.com/rohitg00/DevOps_Books | Respository created to host every free DevOps books available
+DevOps Books | https://github.com/rohitg00/DevOps_Books | Repository created to host every free DevOps books available
 Resume Tips | https://twitter.com/ghumare64/status/1529346650468012032?s=20&t=KA45jQ2CBsyZK3wFW9zi7g | This tweet contains - Resume tips and my own latex  resume template
 DevOps Youtube Channels | https://twitter.com/ghumare64/status/1559771038895853568?s=20&t=KA45jQ2CBsyZK3wFW9zi7g | This tweet contains - Youtube video channels to learn DevOps free of cost.
 DevOps Tools | https://twitter.com/ghumare64/status/1560892185842941953?s=20&t=mTInaYg86KZbVNyC865ntQ | I personally use this DevOps tools
@@ -57,7 +57,7 @@ Service Mesh | https://twitter.com/ghumare64/status/1547812558295670784?s=20&t=K
 Getting Started With eBPF | https://ebpf.io/what-is-ebpf/ | eBPF (which is no longer an acronym for anything) is a revolutionary technology with origins in the Linux kernel that can run sandboxed programs in a privileged context such as the operating system kernel.
 Free Introduction to GitOps | https://bit.ly/3xKPZyi |  Linux Foundation course
 DevOps-The-Hard-Way-AWS | https://buff.ly/3QxT6QE | This repository contains free labs for setting up an entire workflow and DevOps environment from a real-world perspective in AWS
-DevOps Excersises | https://github.com/bregman-arie/devops-exercises | Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenStack, SQL, NoSQL, Azure, GCP, DNS, Elastic, Network, Virtualization. DevOps Interview Questions
+DevOps Exercises | https://github.com/bregman-arie/devops-exercises | Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenStack, SQL, NoSQL, Azure, GCP, DNS, Elastic, Network, Virtualization. DevOps Interview Questions
 90DaysOfDevOps | https://github.com/MichaelCade/90DaysOfDevOps | This repository is my documenting repository for learning the world of DevOps. I started this journey on the 1st January 2022 and I plan to run to March 31st for a complete 90-day romp on spending an hour a day including weekends to get a foundational knowledge across a lot of different areas that make up DevOps.
 Learn DevOps | https://github.com/dwyl/learn-devops | 🚧 Learn the craft of "DevOps" (Developer Operations) to Deploy your App and Monitor it so it stays "Up"!
 Awesome Learning | https://github.com/Lets-DevOps/awesome-learning | A curated list for DevOps learning resources. Join the slack channel to discuss more.
