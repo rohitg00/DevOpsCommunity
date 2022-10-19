@@ -50,6 +50,7 @@ DevOps Projects - 2 | https://twitter.com/ghumare64/status/1546127603282710530?s
 DevOps Resources - 1 | https://twitter.com/ghumare64/status/1526398860389519361?s=20&t=luieHHpWhSqkW3_Pg3VWnQ | This is part 1 of some DevOps resources
 DevOps Resources - 2 | https://twitter.com/ghumare64/status/1528377875044663296?s=20&t=luieHHpWhSqkW3_Pg3VWnQ | This is part 2 of some DevOps resources
 DevOps Resources - 3 | https://twitter.com/ghumare64/status/1531885835150233600?s=20&t=luieHHpWhSqkW3_Pg3VWnQ | This is part 3 of some DevOps resources
+Free Courses | https://twitter.com/ghumare64/status/1581497472043536385?s=20&t=k_1DZf1dgt6iU4IGIWx9zA | DevOps, Data Science, and Python Free Courses
 AWS Resources | [AWS Badges](https://aws.amazon.com/training/badges/) | Learn AWS skills and earn AWS digital badges for FREE!
 Tricks to earn through DevOps | https://twitter.com/ghumare64/status/1555793156847063040?s=20&t=KA45jQ2CBsyZK3wFW9zi7g | This tweet contains - Tips and tricks to earn more than 50$/hr+ with DevOps and powerful content.
 Part-time Jobs | https://twitter.com/ghumare64/status/1530242128139259905?s=20&t=KA45jQ2CBsyZK3wFW9zi7g | Learn about part-time jobs in DevOps
