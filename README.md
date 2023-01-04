@@ -28,7 +28,6 @@ Initially created by [Rohit Ghumare](https://github.com/rohitg00/) on [Twitter](
 ---
 # Active Discounts - apply asap!
 
-* [Apply for free $300 AWS POC credit](https://bit.ly/3ssytMj)
 * [Five free courses on pluralsight this month (AWS, Cloud Computing Basics & Azure)](https://bit.ly/3Ics9hm)
 * [Udacity AWS AI & ML Scholarship Program](https://bit.ly/393PlBy)
 * [Free ACloudGuru Courses (AWS, Azure, Networking and more)](https://bit.ly/3rOh5Rh)
