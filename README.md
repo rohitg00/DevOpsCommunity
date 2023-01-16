@@ -12,12 +12,12 @@ Resources are added frequently! ⚡
 
 Enjoy!
 
-# Open - Source Contribution
+# 🧰 Open - Source Contribution
 
+* Contributions make the open source community an amazing place to learn, inspire, and create.
+* Any contributions you make are truly appreciated.
 * If you want to contribute, This repository is in build. Feel free to do.
 * Help needed for Alignment of Resources, and Readme.md creation with proper contributing guidelines.
-
-If you like this repo, be sure to ⭐ it.
 
 Please read [`contributing guidelines`](https://github.com/rohitg00/DevOpsCommunity/blob/main/contributing.md) before submitting new Resources.
 
@@ -26,14 +26,14 @@ Please read [`contributing guidelines`](https://github.com/rohitg00/DevOpsCommun
 Initially created by [Rohit Ghumare](https://github.com/rohitg00/) on [Twitter](https://twitter.com/ghumare64).
 
 ---
-# Active Discounts - apply asap!
+# 💵 Active Discounts - apply asap!
 
 * [Five free courses on pluralsight this month (AWS, Cloud Computing Basics & Azure)](https://bit.ly/3Ics9hm)
 * [Udacity AWS AI & ML Scholarship Program](https://bit.ly/393PlBy)
 * [Free ACloudGuru Courses (AWS, Azure, Networking and more)](https://bit.ly/3rOh5Rh)
 * [Free Week by KodeKloud (All resources)](https://kodekloud.webflow.io/free-week)
 
-# DevOps Resources
+# 📚 DevOps Resources
 Name | Resource Link | Information
 ------ | ------- | --------------
 DevOps Path | https://twitter.com/ghumare64/status/1537460982582128641?s=20&t=KA45jQ2CBsyZK3wFW9zi7g | Recommended by me, If focusing on the Job Interview
@@ -72,4 +72,14 @@ DevOps Gitbook | https://tkssharma-devops.gitbook.io/devops-training/ | Some cur
 ☸️ Kubernetes course by CIVO | https://www.civo.com/academy | Kubernetes - An orchestration tool used to manage your containers and application
 Sample Docker Templates | https://github.com/devtron-labs/devtron/tree/main/sample-docker-templates  | Devtron Sample Docker Templates - If you're exploring the docker images and stuck with the creation of dockerfiles, This resource get you covered.
 DevOps Projects | https://github.com/Abhinav-26/DevOps-Projects | Curated List of DevOps Projects
+
+# 🛡️ License
+
+DevOpsCommunity is licensed under the MIT License - see the [LICENSE](https://github.com/rohitg00/DevOpsCommunity/blob/main/LICENSE) file for details.
+
+
+# 🙏 Support
+
+If you like this repo, be sure to ⭐ it.
+
 
