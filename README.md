@@ -16,7 +16,7 @@ Enjoy!
 
 * If you want to contribute, This repository is in build. Feel free to do.
 * Help needed for Alignment of Resources, and Readme.md creation with proper contributing guidelines.
-* If you want to contribute DevOps related blogs to our DevOps Community: Feel free to do so 👉 [DevOps Community Hashnode Publication](https://devopscommunity.hashnode.dev/)
+* If you want to contribute DevOps related blogs to our DevOps Community: Feel free to do so 👉 [Blog Contributions](/blog-contributions.md)
 
 If you like this repo, be sure to ⭐ it.
 
