@@ -82,3 +82,4 @@ Deployment Strategies | https://twitter.com/pragyanatvade/status/161626965782810
 The DevOps Revolution | https://twitter.com/pragyanatvade/status/1618444723126927360 | Changes that DevOps revolution has brought into all facets of an organization
 SSH Guide | https://twitter.com/pragyanatvade/status/1615544850912272384 | Beginner's Guide to SSH
 `dig` Cheatsheet | https://twitter.com/pragyanatvade/status/1615181182521556992 | Cheatsheet to debug DNS issues using `dig`
+How to use `NginX` | https://twitter.com/pragyanatvade/status/1610471444709883907 | Learn everything about `NginX` in a tweet
