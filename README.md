@@ -73,3 +73,4 @@ DevOps Gitbook | https://tkssharma-devops.gitbook.io/devops-training/ | Some cur
 Sample Docker Templates | https://github.com/devtron-labs/devtron/tree/main/sample-docker-templates  | Devtron Sample Docker Templates - If you're exploring the docker images and stuck with the creation of dockerfiles, This resource get you covered.
 DevOps Projects | https://github.com/Abhinav-26/DevOps-Projects | Curated List of DevOps Projects
 DevOps Certifications | https://twitter.com/ghumare64/status/1606092417710465024?s=20&t=IrhAbKVK28RapvQLguminw | Curated List of DevOps Free Certification
+DevOps Roadmap 2022 by Kubesimplify | https://youtu.be/7l_n97Mt0ko | Ultimate guide to get into DevOps and Cloud Native with links to free learning resources
