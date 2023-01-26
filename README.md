@@ -77,4 +77,6 @@ DevOps Projects | https://github.com/Abhinav-26/DevOps-Projects | Curated List o
 DevOps Certifications | https://twitter.com/ghumare64/status/1606092417710465024?s=20&t=IrhAbKVK28RapvQLguminw | Curated List of DevOps Free Certification
 DevOps Roadmap 2022 by Kubesimplify | https://youtu.be/7l_n97Mt0ko | Ultimate guide to get into DevOps and Cloud Native with links to free learning resources
 `kubernetes` Cheatsheet | https://twitter.com/pragyanatvade/status/1613008162839298048 | All K8s command in single thread
-Do's & Don'ts as a DevOps Engineer| https://twitter.com/pragyanatvade/status/1612644458184450048 | 5 years of DevOps experience in a single thread
+Do's & Don't as a DevOps Engineer| https://twitter.com/pragyanatvade/status/1612644458184450048 | 5 years of DevOps experience in a single thread
+Deployment Strategies | https://twitter.com/pragyanatvade/status/1616269657828106242 | Five Deployment Strategies You Must Know
+
