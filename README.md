@@ -79,4 +79,4 @@ DevOps Roadmap 2022 by Kubesimplify | https://youtu.be/7l_n97Mt0ko | Ultimate gu
 `kubernetes` Cheatsheet | https://twitter.com/pragyanatvade/status/1613008162839298048 | All K8s command in single thread
 Do's & Don't as a DevOps Engineer| https://twitter.com/pragyanatvade/status/1612644458184450048 | 5 years of DevOps experience in a single thread
 Deployment Strategies | https://twitter.com/pragyanatvade/status/1616269657828106242 | Five Deployment Strategies You Must Know
-
+The DevOps Revolution | https://twitter.com/pragyanatvade/status/1618444723126927360 | Changes that DevOps revolution has brought into all facets of an organization
