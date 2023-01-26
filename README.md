@@ -2,7 +2,7 @@
 <img src="assets/cover.png" />
 DevOps/SRE community is for those folks who are trying to learn or explore DevOps with the help of experienced professionals. Opportunities are open to share. 
 
-Check out our [website](https://devopscommunity.in) and [DevOps Community](https://twitter.com/i/communities/1523681883384549376) on twitter for more.
+Check out our [Website](https://devopscommunity.in) and [DevOps Community](https://twitter.com/i/communities/1523681883384549376) on twitter for more.
 
 * This repository is complete Open-Source.
 * Goal is to create DevOps awareness and share the free resource.
