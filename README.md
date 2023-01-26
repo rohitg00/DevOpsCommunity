@@ -28,7 +28,6 @@ Initially created by [Rohit Ghumare](https://github.com/rohitg00/) on [Twitter](
 ---
 # Active Discounts - apply asap!
 
-* [Apply for free $300 AWS POC credit](https://bit.ly/3ssytMj)
 * [Five free courses on pluralsight this month (AWS, Cloud Computing Basics & Azure)](https://bit.ly/3Ics9hm)
 * [Udacity AWS AI & ML Scholarship Program](https://bit.ly/393PlBy)
 * [Free ACloudGuru Courses (AWS, Azure, Networking and more)](https://bit.ly/3rOh5Rh)
@@ -39,6 +38,7 @@ Name | Resource Link | Information
 ------ | ------- | --------------
 DevOps Path | https://twitter.com/ghumare64/status/1537460982582128641?s=20&t=KA45jQ2CBsyZK3wFW9zi7g | Recommended by me, If focusing on the Job Interview
 DevOps Roadmap by roadmap.sh | https://roadmap.sh/devops | A community driven step by step guide for DevOps, SRE or any other Operations Role in 2022
+Kubernetes Resources | https://twitter.com/ghumare64/status/1586751198962495489?s=20&t=oeBFJCpW8z_ZEpe1F65W8A | Tweet thread
 Remote Job Path | https://twitter.com/ghumare64/status/1567096152079859712?s=20&t=bTOHCdrD6epup8J2p7Fucw | It is my experience while applying remote jobs
 DevOps Books | https://github.com/rohitg00/DevOps_Books | Repository created to host every free DevOps books available
 Resume Tips | https://twitter.com/ghumare64/status/1529346650468012032?s=20&t=KA45jQ2CBsyZK3wFW9zi7g | This tweet contains - Resume tips and my own latex  resume template
@@ -50,6 +50,7 @@ DevOps Projects - 2 | https://twitter.com/ghumare64/status/1546127603282710530?s
 DevOps Resources - 1 | https://twitter.com/ghumare64/status/1526398860389519361?s=20&t=luieHHpWhSqkW3_Pg3VWnQ | This is part 1 of some DevOps resources
 DevOps Resources - 2 | https://twitter.com/ghumare64/status/1528377875044663296?s=20&t=luieHHpWhSqkW3_Pg3VWnQ | This is part 2 of some DevOps resources
 DevOps Resources - 3 | https://twitter.com/ghumare64/status/1531885835150233600?s=20&t=luieHHpWhSqkW3_Pg3VWnQ | This is part 3 of some DevOps resources
+Free Courses | https://twitter.com/ghumare64/status/1581497472043536385?s=20&t=k_1DZf1dgt6iU4IGIWx9zA | DevOps, Data Science, and Python Free Courses
 AWS Resources | [AWS Badges](https://aws.amazon.com/training/badges/) | Learn AWS skills and earn AWS digital badges for FREE!
 Tricks to earn through DevOps | https://twitter.com/ghumare64/status/1555793156847063040?s=20&t=KA45jQ2CBsyZK3wFW9zi7g | This tweet contains - Tips and tricks to earn more than 50$/hr+ with DevOps and powerful content.
 Part-time Jobs | https://twitter.com/ghumare64/status/1530242128139259905?s=20&t=KA45jQ2CBsyZK3wFW9zi7g | Learn about part-time jobs in DevOps
@@ -71,5 +72,5 @@ DevOps Gitbook | https://tkssharma-devops.gitbook.io/devops-training/ | Some cur
 ☸️ Kubernetes course by CIVO | https://www.civo.com/academy | Kubernetes - An orchestration tool used to manage your containers and application
 Sample Docker Templates | https://github.com/devtron-labs/devtron/tree/main/sample-docker-templates  | Devtron Sample Docker Templates - If you're exploring the docker images and stuck with the creation of dockerfiles, This resource get you covered.
 DevOps Projects | https://github.com/Abhinav-26/DevOps-Projects | Curated List of DevOps Projects
+DevOps Certifications | https://twitter.com/ghumare64/status/1606092417710465024?s=20&t=IrhAbKVK28RapvQLguminw | Curated List of DevOps Free Certification
 DevOps Roadmap 2022 by Kubesimplify | https://youtu.be/7l_n97Mt0ko | Ultimate guide to get into DevOps and Cloud Native with links to free learning resources
-
