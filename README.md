@@ -81,3 +81,4 @@ Do's & Don't as a DevOps Engineer| https://twitter.com/pragyanatvade/status/1612
 Deployment Strategies | https://twitter.com/pragyanatvade/status/1616269657828106242 | Five Deployment Strategies You Must Know
 The DevOps Revolution | https://twitter.com/pragyanatvade/status/1618444723126927360 | Changes that DevOps revolution has brought into all facets of an organization
 SSH Guide | https://twitter.com/pragyanatvade/status/1615544850912272384 | Beginner's Guide to SSH
+`dig` Cheatsheet | https://twitter.com/pragyanatvade/status/1615181182521556992 | Cheatsheet to debug DNS issues using `dig`
