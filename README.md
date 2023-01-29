@@ -75,3 +75,4 @@ DevOps Certifications | https://twitter.com/ghumare64/status/1606092417710465024
 DevOps Roadmap 2022 by Kubesimplify | https://youtu.be/7l_n97Mt0ko | Ultimate guide to get into DevOps and Cloud Native with links to free learning resources
 `kubernetes` Cheatsheet | https://twitter.com/pragyanatvade/status/1613008162839298048 | All K8s command in single thread
 Do's & Don'ts as a DevOps Engineer| https://twitter.com/pragyanatvade/status/1612644458184450048 | 5 years of DevOps experience in a single thread
+DevOps and Cloudnative `Newslettters` | https://twitter.com/ghumare64/status/1616310250466082816?s=20&t=rD4lWRwU--gDJ6UIuVTf4g | All DevOps and Cloud native newsletter you should consider subscribing.
