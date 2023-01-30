@@ -74,5 +74,10 @@ DevOps Projects | https://github.com/Abhinav-26/DevOps-Projects | Curated List o
 DevOps Certifications | https://twitter.com/ghumare64/status/1606092417710465024?s=20&t=IrhAbKVK28RapvQLguminw | Curated List of DevOps Free Certification
 DevOps Roadmap 2022 by Kubesimplify | https://youtu.be/7l_n97Mt0ko | Ultimate guide to get into DevOps and Cloud Native with links to free learning resources
 `kubernetes` Cheatsheet | https://twitter.com/pragyanatvade/status/1613008162839298048 | All K8s command in single thread
-Do's & Don'ts as a DevOps Engineer| https://twitter.com/pragyanatvade/status/1612644458184450048 | 5 years of DevOps experience in a single thread
+Do's & Don't as a DevOps Engineer| https://twitter.com/pragyanatvade/status/1612644458184450048 | 5 years of DevOps experience in a single thread
+Deployment Strategies | https://twitter.com/pragyanatvade/status/1616269657828106242 | Five Deployment Strategies You Must Know
+The DevOps Revolution | https://twitter.com/pragyanatvade/status/1618444723126927360 | Changes that DevOps revolution has brought into all facets of an organization
+SSH Guide | https://twitter.com/pragyanatvade/status/1615544850912272384 | Beginner's Guide to SSH
+`dig` Cheatsheet | https://twitter.com/pragyanatvade/status/1615181182521556992 | Cheatsheet to debug DNS issues using `dig`
+How to use `NginX` | https://twitter.com/pragyanatvade/status/1610471444709883907 | Learn everything about `NginX` in a tweet
 DevOps and Cloudnative `Newslettters` | https://twitter.com/ghumare64/status/1616310250466082816?s=20&t=rD4lWRwU--gDJ6UIuVTf4g | All DevOps and Cloud native newsletter you should consider subscribing.
