@@ -81,3 +81,4 @@ SSH Guide | https://twitter.com/pragyanatvade/status/1615544850912272384 | Begin
 `dig` Cheatsheet | https://twitter.com/pragyanatvade/status/1615181182521556992 | Cheatsheet to debug DNS issues using `dig`
 How to use `NginX` | https://twitter.com/pragyanatvade/status/1610471444709883907 | Learn everything about `NginX` in a tweet
 DevOps and Cloudnative `Newslettters` | https://twitter.com/ghumare64/status/1616310250466082816?s=20&t=rD4lWRwU--gDJ6UIuVTf4g | All DevOps and Cloud native newsletter you should consider subscribing.
+DevOps Projects | https://twitter.com/ghumare64/status/1620001389668859909?s=20&t=0d6SL6J9I4Xa1un7e7-G9g | 8 DevOps projects to add on your resume.
