@@ -81,5 +81,5 @@ The DevOps Revolution | https://twitter.com/pragyanatvade/status/161844472312692
 SSH Guide | https://twitter.com/pragyanatvade/status/1615544850912272384 | Beginner's Guide to SSH
 dig Cheatsheet | https://twitter.com/pragyanatvade/status/1615181182521556992 | Cheatsheet to debug DNS issues using dig
 kubernetes Cheatsheet | https://twitter.com/pragyanatvade/status/1613008162839298048 | All K8s command in single thread
-DevOps and Cloud native Newslettters | https://twitter.com/ghumare64/status/1616310250466082816?s=20&t=rD4lWRwU--gDJ6UIuVTf4g | All DevOps and Cloud native newsletter you should consider subscribing
+DevOps and Cloud native Newslettters | https://twitter.com/ghumare64/status/1616310250466082816?s=20&t=rD4lWRwU--gDJ6UIuVTf4g | All DevOps and Cloud native newsletter you should consider subscribing for free
 5 DevOps YouTube channels | https://www.instagram.com/p/CoB9QzEt4Sy/?utm_source=ig_web_copy_link | Top 5 youtube video channels shared on Instagram post.
