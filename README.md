@@ -77,11 +77,11 @@ DevOps Certifications | https://twitter.com/ghumare64/status/1606092417710465024
 DevOps Roadmap 2022 by Kubesimplify | https://youtu.be/7l_n97Mt0ko | Ultimate guide to get into DevOps and Cloud Native
 How to use Nginx | https://twitter.com/pragyanatvade/status/1610471444709883907 | Learn everything about Ngnix in a tweet
 DevOps Projects | https://twitter.com/ghumare64/status/1620001389668859909?s=20&t=0d6SL6J9I4Xa1un7e7-G9g | 8 DevOps projects to add on your resume
-Do's & Don't as a DevOps Engineer| https://twitter.com/pragyanatvade/status/1612644458184450048 | 5 years of DevOps experience in a single thread
-Deployment Strategies | https://twitter.com/pragyanatvade/status/1616269657828106242 | Five Deployment Strategies You Must Know
-The DevOps Revolution | https://twitter.com/pragyanatvade/status/1618444723126927360 | Changes that DevOps revolution has brought into all facets of an organization
-SSH Guide | https://twitter.com/pragyanatvade/status/1615544850912272384 | Beginner's Guide to SSH
-dig Cheatsheet | https://twitter.com/pragyanatvade/status/1615181182521556992 | Cheatsheet to debug DNS issues using dig
-kubernetes Cheatsheet | https://twitter.com/pragyanatvade/status/1613008162839298048 | All K8s command in single thread
+Do's & Don't as a DevOps Engineer| https://twitter.com/pragyanatvade/status/1612644458184450048 | 5 years of DevOps experience in a single tweet thread
+Deployment Strategies | https://twitter.com/pragyanatvade/status/1616269657828106242 | Tweet for Five Deployment Strategies You Must Know
+The DevOps Revolution | https://twitter.com/pragyanatvade/status/1618444723126927360 | Changes that DevOps revolution has brought into all facets of an organization in tweet
+SSH Guide | https://twitter.com/pragyanatvade/status/1615544850912272384 | Beginner's Guide to SSH in tweet
+dig Cheatsheet | https://twitter.com/pragyanatvade/status/1615181182521556992 | Cheatsheet to debug DNS issues using dig in tweet
+kubernetes Cheatsheet | https://twitter.com/pragyanatvade/status/1613008162839298048 | All K8s command in single tweet thread
 DevOps and Cloud native Newslettters | https://twitter.com/ghumare64/status/1616310250466082816?s=20&t=rD4lWRwU--gDJ6UIuVTf4g | All DevOps and Cloud native newsletter you should consider subscribing for free
-5 DevOps YouTube channels | https://www.instagram.com/p/CoB9QzEt4Sy/?utm_source=ig_web_copy_link | Top 5 youtube video channels shared on Instagram post.
+5 DevOps YouTube channels | https://www.instagram.com/p/CoB9QzEt4Sy/?utm_source=ig_web_copy_link | Top 5 youtube video channels to learn DevOps on Instagram post.
