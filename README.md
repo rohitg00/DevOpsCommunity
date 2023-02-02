@@ -85,3 +85,5 @@ dig Cheatsheet | https://twitter.com/pragyanatvade/status/1615181182521556992 | 
 kubernetes Cheatsheet | https://twitter.com/pragyanatvade/status/1613008162839298048 | Learn all K8s command in single tweet
 DevOps and Cloud native Newslettters | https://twitter.com/ghumare64/status/1616310250466082816?s=20&t=rD4lWRwU--gDJ6UIuVTf4g | All DevOps and Cloud native newsletter you should consider subscribing for free
 5 DevOps YouTube channels | https://www.instagram.com/p/CoB9QzEt4Sy/?utm_source=ig_web_copy_link | Top 5 youtube video channels to learn DevOps on Instagram post.
+🧑‍💻 Github Repos - 4 | https://github.com/vilaca/awesome-k8s-tools | Learn awesome k8s tools
+🧑‍💻 Github Repos - 5 | https://github.com/distributethe6ix/70DaysOfServiceMesh | #70DaysOfServiceMesh repo to learn service meshes for free
