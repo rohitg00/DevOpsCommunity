@@ -87,3 +87,4 @@ DevOps and Cloud native Newslettters | https://twitter.com/ghumare64/status/1616
 5 DevOps YouTube channels | https://www.instagram.com/p/CoB9QzEt4Sy/?utm_source=ig_web_copy_link | Top 5 youtube video channels to learn DevOps on Instagram post.
 🧑‍💻 Github Repos - 4 | https://github.com/vilaca/awesome-k8s-tools | Learn awesome k8s tools
 🧑‍💻 Github Repos - 5 | https://github.com/distributethe6ix/70DaysOfServiceMesh | #70DaysOfServiceMesh repo to learn service meshes for free
+🎮 DevOps Games | https://twitter.com/ghumare64/status/1621930988292149250?s=20&t=5LnvoilsgzmIQvJaBK0h0Q | Learn DevOps by playing games
