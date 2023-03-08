@@ -2,7 +2,7 @@
 <img src="assets/cover.png" />
 The DevOps/SRE community is for those folks who are trying to learn or explore DevOps with the help of experienced professionals. Opportunities are open to sharing. 
 
-Check out our [notion document](https://bit.ly/devopscommunity) and [DevOps Community](https://twitter.com/i/communities/1523681883384549376) on Twitter for more.
+Check out our [Website](https://devopscommunity.in) and [DevOps Community](https://twitter.com/i/communities/1523681883384549376) on twitter for more.
 
 * This repository is completely Open-Source.
 * Goal is to create DevOps awareness and share the free resource.
@@ -16,10 +16,14 @@ Enjoy!
 
 * If you want to contribute, This repository is in build. Feel free to do it.
 * Help needed for Alignment of Resources, and Readme.md creation with proper contributing guidelines.
+* If you want to contribute DevOps related blogs to our DevOps Community: Feel free to do so 👉 [Blog Contributions](/blog-contributions.md)
+* If you want to contribute to our [DevOps Community](http://devopscommunity.in) Website: Feel free to do so 👉 [Website Contributions](https://github.com/rohitg00/RC4Community)
 
 If you like this repo, be sure to ⭐ it.
 
 Please read [`contributing guidelines`](https://github.com/rohitg00/DevOpsCommunity/blob/main/contributing.md) before submitting new Resources.
+
+[![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#https://github.com/rohitg00/DevOpsCommunity)
 
 --- 
 
@@ -27,11 +31,7 @@ Initially created by [Rohit Ghumare](https://github.com/rohitg00/) on [Twitter](
 
 ---
 # Active Discounts - apply asap!
-
-* [Five free courses on Pluralsight this month (AWS, Cloud Computing Basics & Azure)](https://bit.ly/3Ics9hm)
-* [Udacity AWS AI & ML Scholarship Program](https://bit.ly/393PlBy)
-* [Free ACloudGuru Courses (AWS, Azure, Networking, and more)](https://bit.ly/3rOh5Rh)
-* [Free Week by KodeKloud (All resources)](https://kodekloud.webflow.io/free-week)
+* Add here
 
 # DevOps Resources
 Name | Resource Link | Information
@@ -73,3 +73,17 @@ DevOps Gitbook | https://tkssharma-devops.gitbook.io/devops-training/ | Some cur
 Sample Docker Templates | https://github.com/devtron-labs/devtron/tree/main/sample-docker-templates  | Devtron Sample Docker Templates - If you're exploring the docker images and stuck with the creation of dockerfiles, This resource gets you covered.
 DevOps Projects | https://github.com/Abhinav-26/DevOps-Projects | Curated List of DevOps Projects
 DevOps Certifications | https://twitter.com/ghumare64/status/1606092417710465024?s=20&t=IrhAbKVK28RapvQLguminw | Curated List of DevOps Free Certification
+DevOps Roadmap 2022 by Kubesimplify | https://youtu.be/7l_n97Mt0ko | Ultimate guide to get into DevOps and Cloud Native
+How to use Nginx | https://twitter.com/pragyanatvade/status/1610471444709883907 | Learn everything about Ngnix in a tweet
+DevOps Projects | https://twitter.com/ghumare64/status/1620001389668859909?s=20&t=0d6SL6J9I4Xa1un7e7-G9g | 8 DevOps projects to add on your resume
+Do's & Don't as a DevOps Engineer| https://twitter.com/pragyanatvade/status/1612644458184450048 | Learn 5 years of DevOps experience
+Deployment Strategies | https://twitter.com/pragyanatvade/status/1616269657828106242 | Five Deployment Strategies You Must Know for free
+The DevOps Revolution | https://twitter.com/pragyanatvade/status/1618444723126927360 | Changes that DevOps revolution has brought into all facets of an organization exercises
+SSH Guide | https://twitter.com/pragyanatvade/status/1615544850912272384 | Learn Beginner's Guide to SSH
+dig Cheatsheet | https://twitter.com/pragyanatvade/status/1615181182521556992 | Cheatsheet to debug DNS issues using dig for free
+kubernetes Cheatsheet | https://twitter.com/pragyanatvade/status/1613008162839298048 | Learn all K8s command in single tweet
+DevOps and Cloud native Newslettters | https://twitter.com/ghumare64/status/1616310250466082816?s=20&t=rD4lWRwU--gDJ6UIuVTf4g | All DevOps and Cloud native newsletter you should consider subscribing for free
+5 DevOps YouTube channels | https://www.instagram.com/p/CoB9QzEt4Sy/?utm_source=ig_web_copy_link | Top 5 youtube video channels to learn DevOps on Instagram post.
+🧑‍💻 Github Repos - 4 | https://github.com/vilaca/awesome-k8s-tools | Learn awesome k8s tools
+🧑‍💻 Github Repos - 5 | https://github.com/distributethe6ix/70DaysOfServiceMesh | #70DaysOfServiceMesh repo to learn service meshes for free
+🎮 DevOps Games | https://twitter.com/ghumare64/status/1621930988292149250?s=20&t=5LnvoilsgzmIQvJaBK0h0Q | Learn DevOps by playing games
