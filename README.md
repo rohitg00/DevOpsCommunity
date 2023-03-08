@@ -87,3 +87,4 @@ DevOps and Cloud native Newslettters | https://twitter.com/ghumare64/status/1616
 🧑‍💻 Github Repos - 4 | https://github.com/vilaca/awesome-k8s-tools | Learn awesome k8s tools
 🧑‍💻 Github Repos - 5 | https://github.com/distributethe6ix/70DaysOfServiceMesh | #70DaysOfServiceMesh repo to learn service meshes for free
 🎮 DevOps Games | https://twitter.com/ghumare64/status/1621930988292149250?s=20&t=5LnvoilsgzmIQvJaBK0h0Q | Learn DevOps by playing games
+💻Open Source Society University| https://github.com/ossu/computer-science | The OSSU curriculum is a complete education in computer science using online materials.The courses themselves are among the very best in the world, often coming from Harvard, Princeton, MIT, etc.,  high quality in teaching materials and pedagogical principles purpose of including this here is to just make you aware that everything can be learnt online  you just need the patience and will to learn.
