@@ -64,6 +64,7 @@ Learn DevOps | https://github.com/dwyl/learn-devops | 🚧 Learn the craft of "D
 Awesome Learning | https://github.com/Lets-DevOps/awesome-learning | A curated list of DevOps learning resources. Join the slack channel to discuss more.
 DevOps Academy | https://github.com/devopsacademyau/academy | DevOps content, classes, and exercises
 DevOps Gitbook | https://tkssharma-devops.gitbook.io/devops-training/ | Some curated DevOps insights 
+CloudCaptain | https://github.com/nomadicmehul/CloudCaptain | one-stop-shop for all things cloud-related
 📄 Github Gists | [1](https://t.co/gpWbgCKdrY) [2](https://t.co/jdQJtSYUjL) [3](https://t.co/OyObbwSbwf) [4](https://t.co/dDxC2TU0JW) [5](https://t.co/AvuBAnXzqK) [6](https://t.co/AvuBAnXzqK) [7](https://t.co/ThxJIAyM4U) [8](https://t.co/wyZ4Cg8lif) [9](https://t.co/2u83ClKLR8) | Application Security Interview Preparation Questions
 📚 Free e-Books | https://bit.ly/3LfMOma | The Container Security Book by Liz Rice
 🧑‍💻 GitHub Repos - 1 | https://bit.ly/3ypmikg | Automated Vagrant Kubernetes Cluster Setup
