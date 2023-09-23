@@ -88,3 +88,4 @@ DevOps and Cloud native Newslettters | https://twitter.com/ghumare64/status/1616
 🧑‍💻 Github Repos - 5 | https://github.com/distributethe6ix/70DaysOfServiceMesh | #70DaysOfServiceMesh repo to learn service meshes for free
 🎮 DevOps Games | https://twitter.com/ghumare64/status/1621930988292149250?s=20&t=5LnvoilsgzmIQvJaBK0h0Q | Learn DevOps by playing games
 Linux Resources | https://twitter.com/ghumare64/status/1688792620196360192?s=20 | Learn Linux with these 5 websites
+YAML For DevOps | https://x.com/ghumare64/status/1704382663434318219?s=20 | 5 Websites to learn YAML for DevOps
