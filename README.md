@@ -24,7 +24,7 @@ If you like this repo, be sure to ⭐ it.
 Please read [`contributing guidelines`](https://github.com/rohitg00/DevOpsCommunity/blob/main/contributing.md) before submitting new Resources.
 
 [![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#https://github.com/rohitg00/DevOpsCommunity)
-
+[![Chat with DevOps Community](https://img.shields.io/badge/Chat_with_DevOpsCommunity-Ask_Cody-%238A16D7?labelColor=%23383838)](https://sourcegraph.com/github.com/rohitg00/DevOpsCommunity)
 --- 
 
 Initially created by [Rohit Ghumare](https://github.com/rohitg00/) on [Twitter](https://twitter.com/ghumare64).
