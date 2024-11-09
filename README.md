@@ -73,6 +73,7 @@ DevOps Gitbook | https://tkssharma-devops.gitbook.io/devops-training/ | Some cur
 ☸️ Kubernetes course by CIVO | https://www.civo.com/academy | Kubernetes - An orchestration tool used to manage your containers and application
 Sample Docker Templates | https://github.com/devtron-labs/devtron/tree/main/sample-docker-templates  | Devtron Sample Docker Templates - If you're exploring the docker images and stuck with the creation of dockerfiles, This resource gets you covered.
 DevOps Projects | https://github.com/Abhinav-26/DevOps-Projects | Curated List of DevOps Projects
+DevOps Interview Questions | https://github.com/rohitg00/devops-interview-questions | One stop DevOps Interview Questions Hub
 DevOps Certifications | https://twitter.com/ghumare64/status/1606092417710465024?s=20&t=IrhAbKVK28RapvQLguminw | Curated List of DevOps Free Certification
 DevOps Roadmap 2022 by Kubesimplify | https://youtu.be/7l_n97Mt0ko | Ultimate guide to get into DevOps and Cloud Native
 How to use Nginx | https://twitter.com/pragyanatvade/status/1610471444709883907 | Learn everything about Ngnix in a tweet
