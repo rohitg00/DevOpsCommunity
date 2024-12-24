@@ -70,6 +70,9 @@ DevOps Gitbook | https://tkssharma-devops.gitbook.io/devops-training/ | Some cur
 🧑‍💻 GitHub Repos - 1 | https://bit.ly/3ypmikg | Automated Vagrant Kubernetes Cluster Setup
 🧑‍💻 GitHub Repos - 2 | https://bit.ly/3dGLCfw | Kubetools - A Curated List of Kubernetes Tools
 🧑‍💻 GitHub Repos - 3 | https://bit.ly/3Kejxa5 | System Design Primer
+🧑‍💻 Github Repos - 4 | https://github.com/vilaca/awesome-k8s-tools | Learn awesome k8s tools
+🧑‍💻 Github Repos - 6 | https://github.com/bregman-arie/howtheydevops | How They DevOps - a curated knowledge repository on how companies do DevOps
+🧑‍💻 Github Repos - 5 | https://github.com/distributethe6ix/70DaysOfServiceMesh | #70DaysOfServiceMesh repo to learn service meshes for free
 ☸️ Kubernetes course by CIVO | https://www.civo.com/academy | Kubernetes - An orchestration tool used to manage your containers and application
 Sample Docker Templates | https://github.com/devtron-labs/devtron/tree/main/sample-docker-templates  | Devtron Sample Docker Templates - If you're exploring the docker images and stuck with the creation of dockerfiles, This resource gets you covered.
 DevOps Projects | https://github.com/Abhinav-26/DevOps-Projects | Curated List of DevOps Projects
@@ -86,9 +89,6 @@ dig Cheatsheet | https://twitter.com/pragyanatvade/status/1615181182521556992 | 
 kubernetes Cheatsheet | https://twitter.com/pragyanatvade/status/1613008162839298048 | Learn all K8s command in single tweet
 DevOps and Cloud native Newslettters | https://twitter.com/ghumare64/status/1616310250466082816?s=20&t=rD4lWRwU--gDJ6UIuVTf4g | All DevOps and Cloud native newsletter you should consider subscribing for free
 5 DevOps YouTube channels | https://www.instagram.com/p/CoB9QzEt4Sy/?utm_source=ig_web_copy_link | Top 5 youtube video channels to learn DevOps on Instagram post.
-🧑‍💻 Github Repos - 4 | https://github.com/vilaca/awesome-k8s-tools | Learn awesome k8s tools
-🧑‍💻 Github Repos - 5 | https://github.com/distributethe6ix/70DaysOfServiceMesh | #70DaysOfServiceMesh repo to learn service meshes for free
 🎮 DevOps Games | https://twitter.com/ghumare64/status/1621930988292149250?s=20&t=5LnvoilsgzmIQvJaBK0h0Q | Learn DevOps by playing games
 Linux Resources | https://twitter.com/ghumare64/status/1688792620196360192?s=20 | Learn Linux with these 5 websites
 YAML Resources | https://x.com/ghumare64/status/1704382663434318219?s=20 | 5 Websites to learn YAML for DevOps
-🧑‍💻 Github Repos - 6 | https://github.com/bregman-arie/howtheydevops | How They DevOps - a curated knowledge repository on how companies do DevOps
