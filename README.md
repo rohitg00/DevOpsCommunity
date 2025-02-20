@@ -37,6 +37,7 @@ Initially created by [Rohit Ghumare](https://github.com/rohitg00/) on [Twitter](
 # DevOps Resources
 Name | Resource Link | Information
 ------ | ------- | --------------
+DevOps Roadmap | https://medium.com/@ghumare64/devops-roadmap-2025-352da3d08251 | DevOps Roadmap 2025
 DevOps Path | https://twitter.com/ghumare64/status/1537460982582128641?s=20&t=KA45jQ2CBsyZK3wFW9zi7g | Recommended by me, If focusing on the Job Interview
 DevOps Roadmap by the roadmap.sh | https://roadmap.sh/devops | A community-driven step-by-step guide for DevOps, SRE, or any other Operations Role in 2022
 Kubernetes Resources | https://twitter.com/ghumare64/status/1586751198962495489?s=20&t=oeBFJCpW8z_ZEpe1F65W8A | Tweet thread
