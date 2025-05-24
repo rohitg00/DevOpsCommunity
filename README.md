@@ -28,30 +28,6 @@ Please read [`contributing guidelines`](https://github.com/rohitg00/DevOpsCommun
 
 Initially created by [Rohit Ghumare](https://github.com/rohitg00/) on [Twitter](https://twitter.com/ghumare64).
 
----
-# Active Discounts - apply asap!
-## CNCF is celebrating Open Source Software Month! 💛
-
-### Use the coupon "FEB25BUNGOLDEN" to enjoy up to 75% off on bundles!
-
-#### 50% off bundles:
-- 👉 KCNA + KCSA: https://lnkd.in/ea3k99pF
-- 👉 CKA + CKAD: https://lnkd.in/eS3cVvcA
-- 👉 KUBESTRONAUT: https://lnkd.in/ev9cEEyP
-- 👉 LFCS + KCNA: https://lnkd.in/eP6UbeBE
-- 👉 CKA + CKAD + CKS: https://lnkd.in/ejaArWDR
-- 👉 CKA + CKS: https://lnkd.in/eU27AZNA
-- 👉 KCSA + CKS: https://lnkd.in/eJTiTpAy
-- 👉 KCNA + CKA: https://lnkd.in/e5ekRR_k
-
-#### 75% off super bundles:
-- 👉 Cloud Native Super Bundle: https://lnkd.in/eVfFM55w
-- 👉 Cybersecurity Super Bundle: https://lnkd.in/eMnHfap8
-
-# "Valid till the 25th of Feb!"
-
-* Add here
-
 # DevOps Resources
 Name | Resource Link | Information
 ------ | ------- | --------------
