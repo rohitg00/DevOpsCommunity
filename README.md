@@ -12,8 +12,6 @@ Resources are added frequently! ⚡
 
 Enjoy!
 
-[![Chat with DevOps Community](https://img.shields.io/badge/Chat_with_DevOpsCommunity-Ask_Cody-%238A16D7?labelColor=%23383838)](https://sourcegraph.com/github.com/rohitg00/DevOpsCommunity)
-
 # Open-Source Contribution
 
 * If you want to contribute, This repository is in build. Feel free to do it.
